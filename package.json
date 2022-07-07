@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "newman": "^5.3.2",
+    "newman-reporter-htmlextra": "^1.22.10",
+    "nodejs": "^0.0.0"
+  },
+  "name": "ef_marco_mendoza",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoniMendoza/EF_MARCO_MENDOZA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoniMendoza/EF_MARCO_MENDOZA/issues"
+  },
+  "homepage": "https://github.com/AntoniMendoza/EF_MARCO_MENDOZA#readme"
+}
